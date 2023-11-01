@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SlaveTradeFix\Source\SlaveTradeFix\bin\Debug\SlaveTradeFix.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SlaveTradeFix\Source\SlaveTradeFix\bin\Debug\SlaveTradeFix.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SlaveTradeFix\Source\SlaveTradeFix\obj\Debug\SlaveTradeFix.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SlaveTradeFix\Source\SlaveTradeFix\obj\Debug\SlaveTradeFix.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SlaveTradeFix\Source\SlaveTradeFix\obj\Debug\SlaveTradeFix.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SlaveTradeFix\Assemblies\SlaveTradeFix.dll
